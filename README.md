@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Dominik 👋</h1>
+
+<p align="center">
+  <em>Building things, one commit at a time.</em>
+</p>
+
 
 ![koi](koi/koi.gif)
 
