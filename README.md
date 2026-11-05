@@ -4,8 +4,9 @@
   <em>Building things, one commit at a time.</em>
 </p>
 
-
-![koi](koi/koi.gif)
+<p align="center">
+  <img src="koi/koi.gif" alt="koi" />
+</p>
 
 <!--
 **Doma16/Doma16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
